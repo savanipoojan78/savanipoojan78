@@ -9,7 +9,7 @@
 
 I'm currently working in Optum Technology. I'm a passionate learner who's always willing to learn and work across technologies and domains 💡. I love to explore new technologies and leverage them to solve real-life problems ✨.I'm currently into Devops and working on my Data Structures and Algorithms 🤓.
 
-<img align="right" height="250" width="375" alt="" src="https://media.giphy.com/media/1d5U0OaCqfC0DQpriC/giphy.gif" />
+<img align="right" height="250" width="375" alt="" src="https://media.giphy.com/media/Vbtc9VG51NtzT1Qnv1/giphy.gif" />
 
 ### Talking about Personal Stuffs:
 
@@ -18,6 +18,16 @@ I'm currently working in Optum Technology. I'm a passionate learner who's always
 - 👨🏻‍💻 &nbsp; Most of my projects are available on [Github](https://github.com/savanipoojan78).
 - 👾 &nbsp; Fun fact: Equal is Not Always Equal in Javascript.
 - 📫 &nbsp; How to reach me: savanipoojan78@gmail.com
+
+### Certified
+<p>
+ <a href="https://www.credly.com/badges/4b75570d-c9b0-4d3d-8c41-0b8044871dfe/public_url">
+<img src="https://user-images.githubusercontent.com/33199323/134687280-5be9514a-7c4c-468a-a757-21c9a0315f4f.png"/>
+</a>
+	<a href="https://www.credly.com/badges/4244bbde-27a5-4905-97d7-9f3afea55eca/public_url">
+		<img src="https://user-images.githubusercontent.com/33199323/134688112-62eb8880-0bb4-414b-bd09-d37bdfc48503.png"/>
+	</a>
+</p>
 
 ### Languages and Tools:
 
@@ -44,7 +54,8 @@ I'm currently working in Optum Technology. I'm a passionate learner who's always
 <img src="https://img.shields.io/badge/kubernetes%20-%23326ce5.svg?&style=for-the-badge&logo=kubernetes&logoColor=white"/>
 </p>
 <details>	
-  <br />
+<br />
+	
   <summary><b>⚙️ Things I use to get stuff done</b></summary>
   	<ul>
   	    <li><b>OS:</b> Ubuntu 20.04</li>
