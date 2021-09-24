@@ -21,10 +21,10 @@ I'm currently working in Optum Technology. I'm a passionate learner who's always
 
 ### Certified
 <p>
- <a href="https://www.credly.com/badges/4b75570d-c9b0-4d3d-8c41-0b8044871dfe/public_url">
+ <a href="https://www.credly.com/badges/4b75570d-c9b0-4d3d-8c41-0b8044871dfe/public_url" target="_blank">
 <img src="https://user-images.githubusercontent.com/33199323/134687280-5be9514a-7c4c-468a-a757-21c9a0315f4f.png"/>
 </a>
-	<a href="https://www.credly.com/badges/4244bbde-27a5-4905-97d7-9f3afea55eca/public_url">
+	<a href="https://www.credly.com/badges/4244bbde-27a5-4905-97d7-9f3afea55eca/public_url" target="_blank">
 		<img src="https://user-images.githubusercontent.com/33199323/134688112-62eb8880-0bb4-414b-bd09-d37bdfc48503.png"/>
 	</a>
 </p>
