@@ -7,7 +7,7 @@
 
 ### Glad to see you here! &nbsp; ![](https://visitor-badge.glitch.me/badge?page_id=savanipoojan78.savanipoojan78&style=flat-square&color=0088cc)
 
-I'm currently working in Optum Technology. I'm a passionate learner who's always willing to learn and work across technologies and domains 💡. I love to explore new technologies and leverage them to solve real-life problems ✨.I'm currently into Devops and working on my Data Structures and Algorithms 🤓.
+I'm currently working at Hasura as SRE . I'm a passionate learner who's always willing to learn and work across technologies and domains 💡. I love to explore new technologies and leverage them to solve real-life problems ✨.I'm currently into Devops and working on my Data Structures and Algorithms 🤓.
 
 <img align="right" height="250" width="375" alt="" src="https://media.giphy.com/media/Vbtc9VG51NtzT1Qnv1/giphy.gif" />
 
