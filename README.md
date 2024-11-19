@@ -7,17 +7,19 @@
 
 ### Glad to see you here! &nbsp; ![](https://visitor-badge.glitch.me/badge?page_id=savanipoojan78.savanipoojan78&style=flat-square&color=0088cc)
 
-I'm currently working at Hasura as SRE . I'm a passionate learner who's always willing to learn and work across technologies and domains 💡. I love to explore new technologies and leverage them to solve real-life problems ✨.I'm currently into Devops and working on my Data Structures and Algorithms 🤓.
+I'm a Site Reliability Engineer (SRE) with 4+ years of experience in designing, building, and maintaining scalable, reliable infrastructure solutions. Currently working at Hasura, I focus on Kubernetes, Cloud Cost Optimization, and CI/CD Automation. A passionate problem solver, I thrive on leveraging cutting-edge technologies to enhance system performance and efficiency. 🌟
 
 <img align="right" height="250" width="375" alt="" src="https://media.giphy.com/media/Vbtc9VG51NtzT1Qnv1/giphy.gif" />
 
-### Talking about Personal Stuffs:
+### A Quick Overview of Me:
 
-- 🛠 &nbsp; I’m currently working on Docker,Jenkins,AKS, <br /> Graphql, Mongodb, Javascript, etc.
-- 🚀 &nbsp; I’m currently learning Devops.
-- 👨🏻‍💻 &nbsp; Most of my projects are available on [Github](https://github.com/savanipoojan78).
-- 👾 &nbsp; Fun fact: Equal is Not Always Equal in Javascript.
-- 📫 &nbsp; How to reach me: savanipoojan78@gmail.com
+* 🛠   Currently working on: Kubernetes, AWS, Terraform, Prometheus, Pulumi, Grafana.
+* 🚀   Learning: Advanced DevOps practices, Infrastructure as Code, and AI-powered monitoring tools.
+* 🏆   Key Achievements:
+	* Reduced cloud costs by 65% through spot instance utilization.
+	* Developed internal tooling to reduce on-call workload by 20%.
+* 👨🏻‍💻   Explore my projects: GitHub Repository.
+* 📫   Reach me: savanipoojan78@gmail.com.
 
 ### Certified
 <p>
@@ -32,12 +34,6 @@ I'm currently working at Hasura as SRE . I'm a passionate learner who's always w
 ### Languages and Tools:
 
 <p>
-<img src="https://img.shields.io/badge/node.js%20-%2343853D.svg?&style=for-the-badge&logo=node.js&logoColor=white"/>
-<img src="https://img.shields.io/badge/javascript%20-%23323330.svg?&style=for-the-badge&logo=javascript&logoColor=%23F7DF1E"/>
-<img src="https://img.shields.io/badge/html5%20-%23E34F26.svg?&style=for-the-badge&logo=html5&logoColor=white"/>
-<img src="https://img.shields.io/badge/css3%20-%231572B6.svg?&style=for-the-badge&logo=css3&logoColor=white"/>
-<img src="https://img.shields.io/badge/java-%23ED8B00.svg?&style=for-the-badge&logo=java&logoColor=white"/>
-<img src="https://img.shields.io/badge/express.js%20-%23404d59.svg?&style=for-the-badge"/>
 <img src="https://img.shields.io/badge/git%20-%23F05033.svg?&style=for-the-badge&logo=git&logoColor=white"/>
 <img src="https://img.shields.io/badge/github%20-%23121011.svg?&style=for-the-badge&logo=github&logoColor=white"/>
 <img src="https://img.shields.io/badge/bitbucket%20-%230047B3.svg?&style=for-the-badge&logo=bitbucket&logoColor=white"/>
@@ -46,23 +42,16 @@ I'm currently working at Hasura as SRE . I'm a passionate learner who's always w
 <p>
 <img src="https://img.shields.io/badge/AWS%20-%23FF9900.svg?&style=for-the-badge&logo=amazon-aws&logoColor=white"/>
 <img src="https://img.shields.io/badge/Google%20Cloud%20-%234285F4.svg?&style=for-the-badge&logo=google-cloud&logoColor=white"/>
+<img src="https://img.shields.io/badge/Microsoft%20Azure-%230078D4.svg?&style=for-the-badge&logo=microsoft-azure&logoColor=white" alt="Azure Badge"/>
 <img src="https://img.shields.io/badge/jenkins%20-%232C5263.svg?&style=for-the-badge&logo=jenkins&logoColor=white"/>
-<img src="https://img.shields.io/badge/mysql-%2300f.svg?&style=for-the-badge&logo=mysql&logoColor=white"/>
+<img src="https://img.shields.io/badge/PostgreSQL-%23316192.svg?&style=for-the-badge&logo=postgresql&logoColor=white" alt="PostgreSQL Badge"/>
 <img src ="https://img.shields.io/badge/MongoDB-%234ea94b.svg?&style=for-the-badge&logo=mongodb&logoColor=white"/>
-<img src="https://img.shields.io/badge/travisci%20-%232B2F33.svg?&style=for-the-badge&logo=travis&logoColor=white"/>
 <img src="https://img.shields.io/badge/docker%20-%230db7ed.svg?&style=for-the-badge&logo=docker&logoColor=white"/>
 <img src="https://img.shields.io/badge/kubernetes%20-%23326ce5.svg?&style=for-the-badge&logo=kubernetes&logoColor=white"/>
+<img src="https://img.shields.io/badge/Helm-%230F1689.svg?&style=for-the-badge&logo=helm&logoColor=white" alt="Helm Badge"/>
+<img src="https://img.shields.io/badge/kustomize-%23326CE5.svg?&style=for-the-badge&logo=kustomize&logoColor=white" alt="Kustomize Badge"/>
+<img src="https://img.shields.io/badge/ArgoCD-%23F05033.svg?&style=for-the-badge&logo=argo&logoColor=white" alt="ArgoCD Badge"/>
+<img src="https://img.shields.io/badge/Prometheus-%23E6522C.svg?&style=for-the-badge&logo=prometheus&logoColor=white" alt="Prometheus Badge"/>
+<img src="https://img.shields.io/badge/Grafana-%23F46800.svg?&style=for-the-badge&logo=grafana&logoColor=white" alt="Grafana Badge"/>
+
 </p>
-<details>	
-<br />
-	
-  <summary><b>⚙️ Things I use to get stuff done</b></summary>
-  	<ul>
-  	    <li><b>OS:</b> Ubuntu 20.04</li>
-	    <li><b>Laptop: </b> HP Elitebook (i7)</li>
-  	    <li><b>Browser: </b> Chrome</li>
-	    <li><b>Code Editor:</b> VSCode - The best editor out there</li>
-	    <li><b>To Stay Updated:</b> Dev.to, Medium and Twitter</li>
-	    <br />
-	</ul>	
-</details>
